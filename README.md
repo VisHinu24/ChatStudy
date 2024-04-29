@@ -1,5 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-
+## Name : H Vishinu
+## Reg No : 212223220124
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
